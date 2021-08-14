@@ -36,6 +36,25 @@ if (@Cd < thresh){
 
 }  
   
+                  
+Group Opt3:  
   
-  
-  
+int pc[] = pcfind(0,"P",v@P,ch("maxdist"),chi("maxpt"));
+@Cd = float(len(pc))/chi("maxpt"); 
+
+float thresh = chf("threshhold");
+if(f@Cd > thresh){
+
+@group_body = 1;
+
+}
+
+if(f@Cd < thresh){
+@group_edge = 1;
+
+}
+
+if(f@Cd = thresh){
+@group_exact = 1;
+
+}  
