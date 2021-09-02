@@ -1,3 +1,5 @@
+https://www.sidefx.com/forum/topic/26762/?page=1#post-336027
+
 # CheckDensity
 <PW> run over primitive
   
