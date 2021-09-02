@@ -1,6 +1,8 @@
 https://www.sidefx.com/forum/topic/26762/?page=1#post-336027
 
 # CheckDensity
+
+# Polygon Density
 <PW> run over primitive
   
 int pc[] = pcfind(0,"P",v@P,ch("maxdist"),chi("maxpt"));
@@ -73,3 +75,11 @@ if(f@Cd = thresh){
 @group_exact = 1;
 
 }  
+     
+# Volume Density
+                  
+![屏幕截图 2021-09-03 003440](https://user-images.githubusercontent.com/63625631/131882741-a79fe55a-645b-439c-b5ef-95dafd44799f.jpg)
+              
+![屏幕截图 2021-09-03 003458](https://user-images.githubusercontent.com/63625631/131882748-dfb16445-2291-4b6f-bd6e-63a5f2998618.jpg)
+                  
+                  
